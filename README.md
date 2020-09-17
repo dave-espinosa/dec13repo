@@ -1,2 +1,2 @@
-# dec13repo
-Catalog of ML, DL &amp; DS projects created, tested and / or tuned by me.
+# First Test Repository
+Github playground, and my very first repository. Unless explicitely mentioned, do not use this repo as reference
