@@ -12,6 +12,7 @@ dave = turtle.Turtle()
 dave.pensize(4)
 
 
+
 #a = int(input("Insert Hexagon Side Dimension:"))
 a =60
 for _ in range(6):
